@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\bin\Debug\net7.0\CATightlyVsLooselyCoupled.exe
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\bin\Debug\net7.0\CATightlyVsLooselyCoupled.deps.json
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\bin\Debug\net7.0\CATightlyVsLooselyCoupled.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\bin\Debug\net7.0\CATightlyVsLooselyCoupled.dll
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\bin\Debug\net7.0\CATightlyVsLooselyCoupled.pdb
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.dll
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\refint\CATightlyVsLooselyCoupled.dll
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.pdb
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\CATightlyVsLooselyCoupled.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\CATightlyVsLooselyCoupled\CATightlyVsLooselyCoupled\obj\Debug\net7.0\ref\CATightlyVsLooselyCoupled.dll
